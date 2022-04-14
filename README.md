@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @OtterLab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+## About
 ## My Skills
-![image]({https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white})
-
+## Connect with me
 <!---
 OtterLab/OtterLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

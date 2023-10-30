@@ -2,12 +2,12 @@
 
 ### Let's talk about Stuffs:
 :hammer_and_wrench: I'm experienced in VueJS, ReactJS, HTML, CSS. <br/>
-:rocket: I'm currently learning Laravel, NodeJS,ViteJS, MongoDB. <br/>
+:rocket: I'm currently learning Laravel, NodeJS, ViteJS, MongoDB, Typescript, Framer Motion. <br/>
 :woman_technologist: Most of my projects on Github. <br/>
 :mailbox: How to reach me: yimiao96@outlook.com
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,react,vue,materialui,tailwind,wordpress,gcp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,react,vue,materialui,tailwind,wordpress,gcp&perline=5)](https://skillicons.dev)
 
 ### Design Softwares
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -17,13 +17,13 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
 
-## Let's Connect
+### Github Languages
+![OtterLab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OtterLab&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+### Let's Connect
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-
 
 <!---
 OtterLab/OtterLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

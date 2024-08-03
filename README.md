@@ -4,7 +4,7 @@
 :hammer_and_wrench: I'm experienced in VueJS, ReactJS, HTML, CSS. <br/>
 :rocket: I'm currently learning Laravel, NodeJS, ViteJS, MongoDB, Typescript, Framer Motion. <br/>
 :woman_technologist: Most of my projects on Github. <br/>
-:mailbox: How to reach me: yimiao96@outlook.com
+:mailbox: How to reach me: ltcre8lab@outlook.com
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,react,vue,materialui,tailwind,wordpress,gcp&perline=5)](https://skillicons.dev)
